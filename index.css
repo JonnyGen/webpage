@@ -1,0 +1,26 @@
+body
+{
+    background-color:white;
+}
+button
+{
+    background-color: red;
+    color:darkmagenta;
+    width: 100px;
+    height: 100px;
+}
+#alertbutton
+{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(27, 159, 203);
+    color: rgb(239, 237, 244);
+    border-color:black;
+    border-style: dashed;
+    border-radius: 50px;
+}
+p
+{
+    font-size: 12pt;
+    font-family: sans-serif;
+}
